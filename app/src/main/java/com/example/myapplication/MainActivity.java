@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
     private String sUp;
     private final float xCat = 100;
     private final float yCat = 100;
-    private final float deltaCat = 5;
+    private final float deltaCat = 50;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
